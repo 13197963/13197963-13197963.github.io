@@ -1,13 +1,15 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: WIL2 
 layout: home
 ---
+
 # Task 1
 
 ## Task 1.1
 **Task:** Update about page with details of internship ❌
+[About page](about)
 
 ## Task 1.2
 **Task:** Find a mentor at your workplace and review your internship learning plan ❌
