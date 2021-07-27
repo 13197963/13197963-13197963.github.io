@@ -27,7 +27,16 @@ I fit into the company structure at the lowest level of engineer. Above me is an
 I am already employed by Defence, however my current role is in personnel which would not meet the relevance requirement for a FEIT placement, so I applied for a secondment to an area that would be more relevant. I initially tried to switch to a different role in my same workplace in Sydney, however there weren't any opportunities there. I ended up applying for both Adelaide and Canberra before I was able to secure a position in Newcastle.
 
 ## What you expect to learn from your internship
-(include some Engineers Asutralia Stage 2 Competencies and UTS FEIT grad attr)
+In my role I expect to learn a significant amount about being an engineering professional in a non-software centric environment. I think this will be a chance to broaden my horizons and learn about new technologies and opportunities that I had previously not been exposed to.
+
+### EA Stage 2 - Meet legal and regulatory requirements
+Working in my role I will come into contact with various different regulatory authorities (i.e. Defence Aerospace Safety Authority), government policies (i.e. Australian Signals Directorate Cyberworthiness Framework), international regulations (i.e. International Traffic in Arms Regulations (U.S. Government)). Additionally I will be taking part in feasibility studies related to the acquisition of new technologies and equipment.
+
+### EA Stage 2 - Evaluation
+In my role I will be responsible for contract governance, which is ensuring that contractors are performing their services to the level that is expected of them. Futhermore I will assisting in the development of whole of life programs for aircraft platforms and their associated equipment, in areas such as fitness for purpose, decomissioning, and safety.
+
+### UTS FEIT Attribute - Design Oriented
+In my past experience the engineering work that I have performed is somewhat limited in its technical context (i.e. the project was entirely a software based project), whereas in my new role I will be exposed to various different engineering disciplines (i.e. aerospace, electronics, electrical) and instead of software being the main focus these other engineering disciplines will be the main areas. I believe that this will be a significant paradigm shift for the types of projects that I will be working on and wil help to expand my understanding of engineering as a whole.
 
 ## How do you think this internship will be different from your first one
 I think this internship will be considerably different from my first one. My first internship was as a software engineer writing code all day every day, whereas this internship I do not think that I will touch any code (except for excel macros). Instead I will be in a higher level position (project scope wise) where I will be influencing and approving software and system architecture, as well as writing policy documents that help to dictate business requirements in software applications.
