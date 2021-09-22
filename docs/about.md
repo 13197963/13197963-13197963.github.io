@@ -42,4 +42,57 @@ In my past experience the engineering work that I have performed is somewhat lim
 I think this internship will be considerably different from my first one. My first internship was as a software engineer writing code all day every day, whereas this internship I do not think that I will touch any code (except for excel macros). Instead I will be in a higher level position (project scope wise) where I will be influencing and approving software and system architecture, as well as writing policy documents that help to dictate business requirements in software applications.
 ## Include a photo of your workplace
 Due to COVID restrictions in NSW I am currently working from home, below is a picture of my home office.
+![Home Office](/img/20210807_142934.jpg)
+
+## Mentor Details
+My mentor is Aileen Nundu. Nundu is also an Electronics Engineer, however on this project she is working as the Radar Engineer, although she has joined this team relatively recently after spending several years posted to America. She has been with Defence for 10 years.
+
+## Goal Summary
+
+[Updated EPP2 Goals](/img/WIL2_Goals.pdf)
+
+Goals are based off a mixture of UTS and EA attributes.
+1. Engineers Australia
+Competency 3. Indicator 1 –
+“consistently document
+work in a way that would
+enable another person of
+comparable ability to
+continue and complete your
+work should you be unable
+to do
+so due to circumstances
+beyond your control”
+
+2. Engineers Australia
+Competency 13. Indicator 5.
+– “apply Australian
+knowledge and practices,
+including unwritten
+engineering
+knowledge contributed by
+informed peers and
+experts knowledgeable in
+the area of engineering” 
+
+3. Work on projects that
+require work done to be
+completed within a
+legal/regulatory framework.
+Investigate legal and
+regulatory frameworks that
+apply within my area of
+work.
+
+4. Engineers Australia
+Competency 10. Indicator 5.
+– “report progress relative
+to the agreed schedule,
+expenditure relative to
+the budget, provide agreed
+deliverables, and report on
+any outstanding
+issues” 
+
+Reflection on goal setting with mentor is on main page.
 
